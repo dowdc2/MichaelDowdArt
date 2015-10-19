@@ -1,0 +1,45 @@
+body {
+	background: url("backdrop.png");
+	background-size: cover;
+}
+ul {
+	padding: 10px 10px 10px 10px;
+	margin-top: 0;
+	text-align: center;
+	color: white;
+}
+	li {
+		font-family: 'Open Sans Condensed';
+		display: inline;
+		padding: 0px 20px 0px 20px;
+		text-align: right;
+		margin: auto;
+		color: white;
+		font-size: 24px;
+	}
+h1 {
+	font-family: 'Open Sans Condensed', bold;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: center;
+}
+p {
+	font-family: 'Open Sans Condensed', bold;
+	font-size: 25px;
+	font-weight: bold;
+	width: 600px;
+	text-align: center;
+	margin: auto;
+}
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+      border-radius: 5px;
+    }
+    input[type="submit"] {
+      background: rgb(220,101,67);
+      color: white;
+      border-radius: 5px;
+      }
+

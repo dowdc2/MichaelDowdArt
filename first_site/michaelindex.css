@@ -1,0 +1,52 @@
+body {
+	text-align: center;
+	background: url("landscape.jpg");
+	background-size: cover;
+	font-family: helvetica;
+}
+h1 {
+	text-align: center;
+	font-size: 70px;
+	margin: 100px 0 0 0;
+}
+ul {
+	padding: 10px;
+	text-align: center;
+	}
+	li {
+		display: inline;
+		padding: 0px 10px 0px 10px
+	}
+p {
+  padding: 10px;
+  text-align: justify;
+  font-style: bold;
+  line-height: 28px;
+  position: absolute;
+  bottom: 0;
+  margin:0;
+}
+div {
+	height: 500px;
+	background-repeat: no-repeat;
+	margin: 40px 0 0 0;
+	border-radius: 12px;
+	text-align: left;
+	padding: 0px;
+	font-size: 40px;
+	font-style: italic;
+	position: relative;
+		}
+.portraits {
+	background: url("beckett.jpg");
+	background-repeat: no-repeat;
+	position: relative;
+	}
+.figures {
+	background: url("woman.jpg");
+	background-repeat: no-repeat;
+	}
+.landscapes {
+	background: url("boat.jpg");
+	background-repeat: no-repeat;
+	}
